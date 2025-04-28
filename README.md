@@ -65,7 +65,7 @@ Such predictive models could be used by policymakers and health practitioners to
 - `Poster.pdf`:  
   A summary poster designed for presentation purposes.
 
-- 'nhis_2022.csv'
+- NHIS 2022 Dataset
 - NHIS CodeBook
 
 
